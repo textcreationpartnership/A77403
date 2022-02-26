@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A briefe answer to a book intituled, His Majesties letter and declaration to the sheriffes and city of London.·</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77403</idno>
+            <idno type="STC">Wing B4540</idno>
+            <idno type="STC">Thomason E86_34</idno>
+            <idno type="STC">ESTC R20118</idno>
+            <idno type="EEBO-CITATION">99861723</idno>
+            <idno type="PROQUEST">99861723</idno>
+            <idno type="VID">113865</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77403)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113865)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 15:E86[34])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A briefe answer to a book intituled, His Majesties letter and declaration to the sheriffes and city of London.·</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the yeer, 1642 [i.e. 1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Jan 30th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Sovereign (1625-1649 : Charles I). --  Controversial literature --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113865:1"/>
+            <pb facs="tcp:113865:1" rendition="simple:additions"/>
+            <p>A Briefe ANSWER TO A BOOK INTITULED, HIS MAJESTIES LETTER <hi>AND</hi> DECLARATION TO THE SHERIFFES and CITY OF LONDON.</p>
+            <p>
+               <add>Jan. 30<hi rend="sup">th</hi>
+               </add> 
+               <hi>LONDON,</hi> Printed in the yeer, 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:113865:2"/>
+            <pb n="1" facs="tcp:113865:2"/>
+            <head>An Anſwer to His Majeſties Letter and Declaration to the Sheriffes and City of <hi>London.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">F</seg>irſt, We were glad to finde that there was yet ſome hopes they would looke to the peace and happineſſe of that City, and at laſt ſever themſelves from any faction or dependence which might inſenſibly involve them in thoſe Calamities they did not foreſee.</hi> 'Tis the nature of Mortalls (but the cauſe I know not) to reſt ſecure in his own thoughts, when in the opinion of others he is ſubject to the greateſt caſualties; nay, ſo averſe are they, that when rea<g ref="char:EOLhyphen"/>ſon cannot promiſe a happy ſucceſſe to their bad attempts, they make it a matter of faith, and be<g ref="char:EOLhyphen"/>lieve that for an abſolute certainty, which in it ſelf i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> leſſe than probable: I wiſh this diſeaſe may ne<g ref="char:EOLhyphen"/>ver ſteale into the Royall, but if His words bee ſcann'd, 'twill breed a jealouſie of His inclination to that diſtemper; for if He were not, how could He imagine that the City of <hi>London,</hi> ſhould now
+<pb n="2" facs="tcp:113865:3"/>after ſo many deſperate deſignes be inſenſible of the miſeries that will enſue the Conqueſt, if ob<g ref="char:EOLhyphen"/>tained by their Adverſaries? ſurely they about His Majeſty have not that power over His Ratio<g ref="char:EOLhyphen"/>nall faculties, as to poſſeſſe Him with a thought of Divinity inhaerent in them, as if their wayes were like Gods, paſt finding out; Or if His Maje<g ref="char:EOLhyphen"/>ſtie do but weigh the ſeverall accidents and paſſa<g ref="char:EOLhyphen"/>ges that have happened ſince theſe differences, He will finde no promiſe from God of the Victory; nay, I am confident His tender Heart cannot bee free from ſome fears, ſeconded with pregnant rea<g ref="char:EOLhyphen"/>ſons, wh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on He may ground a beliefe of His loſſe; and for any thing that He hath yet gotten, the City may continue as zealous for the Parlia<g ref="char:EOLhyphen"/>ment as ever they were; and with no leſſe ſafety than their diligence hath hitherto with Gods aſſi<g ref="char:EOLhyphen"/>ſtance purchaſed for them.</p>
+            <p>
+               <hi>Secondly, With that Anſwer of ours we ſent a Ser<g ref="char:EOLhyphen"/>vant of Our own to require and ſee that it might bee communicated to the whole body of that Our City; but inſtead of that admiſſion we expected to Our Meſſenger, Guards of armed men have beene brought to keepe Our good Subjects from being preſent at the reading therof.</hi> What hopes is there of doing good, when His Majeſty doth ſo confide in thoſe ill inſtruments a<g ref="char:EOLhyphen"/>bout Him? who but the Meſſenger himſelfe could make that falſe Report? were there at any time this twenty yeares more preſent at a Common-Councell, than at that? or did they keep out any
+<pb n="3" facs="tcp:113865:3"/>that had right by cuſtome to be then preſent; and for thoſe that had no right, His Majeſty Himſelfe doth implicite acknowledge how juſtly they were kept out; for He ſaith in this His Letter and De<g ref="char:EOLhyphen"/>clartion to the Sheriffes, That <hi>Speeches were made by ſtrangers, who were admitted the City Counſells con<g ref="char:EOLhyphen"/>trary to the freedome and Cuſtome of thoſe meetings:</hi> now if thoſe that made ſpeeches had no right to be there, and thoſe that were kept out by the Guard, had as little right as they; then His Majeſty doth implicitely commend the keeping of thoſe out; and yet in another place of that Declaration Hee blames them for keeping them out; and for the entertainment of His Servant that brought the Meſſage, what greater reſpect could be ſhewed him, than the admittance of his preſence, and what fairer play can there be, than that above boord; the Meſſenger himſelf being made a witneſſe of that dayes worke.</p>
+            <p>
+               <hi>Thirdly, That all Our good Subjects may clearely underſtand how farre We have beene from begetting, how farre We are from continuing and from nouriſh<g ref="char:EOLhyphen"/>ing theſe unnaturall civill diſſentions, and how much it is in their own power to remove the preſent preſſures, and to eſtabl ſh the future happineſſe and glory of that famous City.</hi>
+            </p>
+            <p>'Tis moſt certain and beleeved of all, that His Majeſty did not beget theſe diſtractions; but tis knowne by whom they have beene maintai<g ref="char:EOLhyphen"/>ned ſince their birth; I meane, by whoſe autho<g ref="char:EOLhyphen"/>rity,
+<pb n="4" facs="tcp:113865:4"/>though his Warrants (as is probable) have bin uſed about that which was never intended at his granting of them: and 'tis clearly to be diſcer<g ref="char:EOLhyphen"/>ned, <hi>how eaſily they may remove the preſent preſſures,</hi> and tis as clearly to be diſcerned how if they take that way preſcribed to them to remove their pre<g ref="char:EOLhyphen"/>ſent miſeries, they will bring greater miſeries in their ſtead, and greateſt of all to their poſterity: for the way preſcribed is in effect this, that the City ſhould firſt apprehend an inability to make re<g ref="char:EOLhyphen"/>ſiſtance, and then yeeld themſelves to the cruell mercy of thoſe who have ſo farre poſſeſt His Ma<g ref="char:EOLhyphen"/>jeſty; and that they ſhould apprehend the Par<g ref="char:EOLhyphen"/>liament men, and other good Common-wealths men, as faſt as the King accuſed them, till at laſt there would be none left to defend the Kingdom: now if this were done, the Warre would doubt<g ref="char:EOLhyphen"/>leſſe ceaſe, and theſe preſent preſſures would be removed; not taken away, but drawne into grea<g ref="char:EOLhyphen"/>ter miſchiefes that would follow, ſo that then the cure were worſe then the diſeaſe, for by this kind of phyſicke you may tamper with the body to cure a Feaver that's ſpotted, and turne it to the plague.</p>
+            <p>Fourthly, <hi>Wee do hereby Declare the ſaid</hi> Iſaac Pennington <hi>not to be Major of that Our City of</hi> Lon<g ref="char:EOLhyphen"/>don, <hi>and to have no lawfull Authority to exerciſe the ſame, and that Our good Subjects of that Our City ought not to ſubmit to any Orders, Directions, or Com<g ref="char:EOLhyphen"/>mands, which ſhall iſſue from him as Lord Major.]</hi>
+               <pb n="5" facs="tcp:113865:4"/>Here his Majeſty hath excuſed the Lord Major, for not ſending a Warrant to apprehend him that ſaid <hi>he hoped to waſh his hands in His Majeſties bloud;</hi> it ſeemes he hath no Authority to do it: But I ra<g ref="char:EOLhyphen"/>ther hope His Majeſty was miſ-informed, for thoſe words if they were ſpoken by any man, might well have beene queſtioned by the ſame au<g ref="char:EOLhyphen"/>thority that other things were done by; but tis likely that thoſe which informed his Majeſty of that, either knew more then my Lord Major did in that particular, or elſe wilfully injured my Lord by his falſe Report; but hower if ſome Ceremo<g ref="char:EOLhyphen"/>nies were not performed which uſed to be ſollem<g ref="char:EOLhyphen"/>nized, nay though he had not beene choſen by the City, yet he hath authority from the Parliament for what he doth, and which is ſufficient to force an obedience from thoſe within his Liberties: but tis moſt likely that he was choſen by the <hi>major</hi> part, for if the City did truſt him with the govern<g ref="char:EOLhyphen"/>ment of their eſtates in the Parliament Houſe, ſure<g ref="char:EOLhyphen"/>ly they would truſt him with their Charter and to governe the City, and Alderman <hi>Cordwell</hi> was knowne before as well as now, and why had they not choſe him to ſit in Parliament before Al<g ref="char:EOLhyphen"/>derman <hi>Pennington</hi> if he had been better beloved, or if the City had beene ſo opinionated of him: but tis probable that many are offended becauſe this Lord Major was choſen before others that were his <hi>Senio<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Ald:, but for thoſe that are offended they muſt needs know tis without cauſe; and ſo they may
+<pb n="6" facs="tcp:113865:5"/>gueſſe how they ſhall be pleaſed, for the Office of Major goes not in order but by election, for other<g ref="char:EOLhyphen"/>wiſe the City might be enforced to have a Major that might undoe the City, but it hath beene the care of former ages (as I may ſay) to provide bet<g ref="char:EOLhyphen"/>ter for this City.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
